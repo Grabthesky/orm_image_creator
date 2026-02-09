@@ -1,5 +1,5 @@
-# ORM image creator
-An ORM image creator based on python.
+# ORM image packer
+An ORM image packer based on python.
 
 ## Instalation
 Download the .exe file in the release section of the repository.
